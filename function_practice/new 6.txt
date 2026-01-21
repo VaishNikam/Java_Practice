@@ -1,0 +1,6 @@
+/*
+ WAP to create function name as void calAdd(int x,int y):
+*/
+class QFunctionCalAdd{
+
+}
