@@ -294,8 +294,7 @@ A) 10
 B) 25
 C) 13
 D) Compilation error
-keep
-Pinned
+
 19.
 class Test {
     static void fun() {
